@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440152463557",
+    "project_id": "chatbox-c9bb2",
+    "storage_bucket": "chatbox-c9bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440152463557:android:0adc9700da1432fca2f8ac",
+        "android_client_info": {
+          "package_name": "com.learning.chat_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440152463557-j964d3mnoe9apjgs58l0flsduc7oj4bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaFnOEJoMT1vVR2eY4lqvXmqY6pIKL9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440152463557-j964d3mnoe9apjgs58l0flsduc7oj4bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
